@@ -8,17 +8,13 @@ package git;
  *
  * @author albanesr
  */
-public class GIT {
+public class Test_1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        System.out.println("Hello world!");
-        System.out.println("Test ?");
-        
-
+        // TODO code application logic here
     }
     
 }
